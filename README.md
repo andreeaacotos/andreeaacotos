@@ -1,10 +1,12 @@
 ![MasterHead](https://yourimageurl.com)
 
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Andreea!
 # Hello! 👋 I'm Andreea
- Data Scientist | 📊 Spatial Data Analyst | GIS
+📊 Jr Data Scientist | 🗺️ Geospatial Data Analyst | 🌍 GIS | ⚛ Machine Learning | 🤖 AI | GeoAI |
 
-Welcome to my GitHub profile! I have just completed my training as a data scientist and I'm excited to start my career in the fascinating world of data. Here you will find a showcase of my projects and work completed during my academic training. Take a look and feel free to explore!
+Welcome to my GitHub profile! 
+I have just completed my training as a data scientist and I'm excited to start my career in the fascinating world of data. 
+Here you will find a showcase of my projects and work completed during my academic training. 
+Take a look and feel free to explore!
 
 ## 🎓 Education
 - 🎓 Data Science Bootcamp, The Bridge, Bilbao
@@ -14,7 +16,7 @@ Welcome to my GitHub profile! I have just completed my training as a data scient
 
 ## 📚 Skills
 - 💡 Data Analysis
-- 
+- 🌍 Spatial Data Analysis
 - 📊 Data Visualization
 - 🤖 Machine Learning 
 - 🧮 Statistics
