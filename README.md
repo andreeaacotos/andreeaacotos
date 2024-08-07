@@ -41,13 +41,18 @@ Take a look and feel free to explore!
 - ArcGIS Online
 - ArcGIS Server
 
+
+## 🌱 I’m currently learning ...
+- Artificial Intelligence by IBM
+
+
 ## 📫 Contact
 You can find me at:
 
 - 💼 LinkedIn: [Andreea Alina](https://www.linkedin.com/in/andreea-alina/)
-- 🖥️ Portfolio: https://codebasics.io/portfolio/Andreea-Alina
+- 🖥️ Portfolio: [Andreea Alina](https://codebasics.io/portfolio/Andreea-Alina)
 
-I'm actively seeking exciting opportunities in the field of data science and data analysis.
+I'm actively seeking exciting opportunities in the field of data science | spatial data science and machine learning.
 Thank you for visiting my GitHub profile! Have a great day! 😄
 
 <!--
