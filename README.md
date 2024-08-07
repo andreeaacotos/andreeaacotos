@@ -7,8 +7,7 @@
 
 Welcome to my GitHub profile! 
 I have just completed my training as a data scientist and I'm excited to start my career in the fascinating world of data. 
-Here you will find a showcase of my projects and work completed during my academic training. 
-Take a look and feel free to explore!
+Here you will find a showcase of my projects and work completed during my academic training. Thank you for reading!
 
 ## 🎓 Education
 - 🎓 Data Science Bootcamp, The Bridge, Bilbao
@@ -43,7 +42,8 @@ Take a look and feel free to explore!
 
 
 ## 🌱 I’m currently learning ...
-- Artificial Intelligence by IBM
+➕ Artificial Intelligence- IBM
+➕ IT Automation with Python- Google 
 
 
 ## 📫 Contact
@@ -53,7 +53,7 @@ You can find me at:
 - 🖥️ Portfolio: [Andreea Alina](https://codebasics.io/portfolio/Andreea-Alina)
 
 I'm actively seeking exciting opportunities in the field of data science | spatial data science and machine learning.
-Thank you for visiting my GitHub profile! Have a great day! 😄
+Thank you for visiting my GitHub profile! Happy learning! 😄
 
 <!--
 **andreeaacotos/andreeaacotos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
