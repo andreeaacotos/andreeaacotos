@@ -42,7 +42,7 @@ Here you will find a showcase of my projects and work completed during my academ
 
 
 ## 🌱 I’m currently learning ...
-➕ Artificial Intelligence- IBM
+➕ Artificial Intelligence- IBM 
 ➕ IT Automation with Python- Google 
 
 
