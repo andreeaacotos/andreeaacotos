@@ -45,7 +45,7 @@ Take a look and feel free to explore!
 You can find me at:
 
 - 💼 LinkedIn: [Andreea Alina](https://www.linkedin.com/in/andreea-alina/)
-- Portfolio: 
+- 🖥️ Portfolio: https://codebasics.io/portfolio/Andreea-Alina
 
 I'm actively seeking exciting opportunities in the field of data science and data analysis.
 Thank you for visiting my GitHub profile! Have a great day! 😄
