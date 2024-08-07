@@ -1,4 +1,6 @@
 ![banner2A](https://github.com/user-attachments/assets/76ea8a5b-c516-4d06-ab92-5499484a1bd1)
+![AlinaBanner](https://github.com/user-attachments/assets/d0848131-cfea-480b-abf9-6a554bb166a5)
+
 
 # Hello! 👋 I'm Andreea
 📊 Jr Data Scientist | 🗺️ Geospatial Data Analyst | 🌍 GIS | ⚛ Machine Learning | 🤖 AI | GeoAI |
