@@ -1,4 +1,4 @@
-![MasterHead](https://yourimageurl.com)
+![MasterHead](![banner2A](https://github.com/user-attachments/assets/035063fe-2b74-4c55-9ac9-94d492f95b32))
 
 # Hello! 👋 I'm Andreea
 📊 Jr Data Scientist | 🗺️ Geospatial Data Analyst | 🌍 GIS | ⚛ Machine Learning | 🤖 AI | GeoAI |
