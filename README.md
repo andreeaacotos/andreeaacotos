@@ -53,7 +53,7 @@ You can find me at:
 - 🖥️ Portfolio: [Andreea Alina](https://codebasics.io/portfolio/Andreea-Alina)
 
 I'm actively seeking exciting opportunities in the field of data science | spatial data science and machine learning.
-Thank you for visiting my GitHub profile! Happy learning! 😄
+Thank you for visiting my GitHub profile!
 
 <!--
 **andreeaacotos/andreeaacotos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
