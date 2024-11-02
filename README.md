@@ -52,7 +52,7 @@ You can find me at:
 - 💼 LinkedIn: [Andreea Alina](https://www.linkedin.com/in/andreea-alina/)
 - 🖥️ Portfolio: [Andreea Alina](https://codebasics.io/portfolio/Andreea-Alina)
 
-I'm actively seeking exciting opportunities in the field of data science | spatial data science and machine learning.
+I'm actively seeking exciting opportunities in the field of data science | spatial data science and machine learning.                        
 Thank you for visiting my GitHub profile!
 
 <!--
